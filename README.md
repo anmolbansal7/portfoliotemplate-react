@@ -8,8 +8,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Clone the repository
 - In the project directory, run <code> npm install </code>
 - Now run <code> npm start </code>
-- 
-- 
 
 ## Snapshot
 
